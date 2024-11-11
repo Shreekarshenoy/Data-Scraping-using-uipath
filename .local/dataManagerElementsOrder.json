@@ -1,0 +1,60 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dtProfiles&Sequence_1",
+        "extractedTable&Sequence_1",
+        "batch&Sequence_5",
+        "Education&Sequence_5",
+        "currCompany&Sequence_5",
+        "name&Sequence_5",
+        "browserLinkedIn&Sequence_4",
+        "allurl&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "test.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "userData&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main(Autosaved).xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ExtractDataTable&Sequence_1",
+        "AlumniData&Sequence_1",
+        "currentPage&Sequence_1",
+        "maxPages&Sequence_1",
+        "profileLinks&Sequence_1",
+        "profileURL&Sequence_1",
+        "profileName&Sequence_1",
+        "profileEmail&Sequence_1",
+        "profileBatch&Sequence_1",
+        "profileCompany&Sequence_1",
+        "randomDelay&Sequence_1",
+        "PageNumber&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

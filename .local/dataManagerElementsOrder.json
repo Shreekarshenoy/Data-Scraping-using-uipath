@@ -13,13 +13,7 @@
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
         "dtProfiles&Sequence_1",
-        "extractedTable&Sequence_1",
-        "batch&Sequence_5",
-        "Education&Sequence_5",
-        "currCompany&Sequence_5",
-        "name&Sequence_5",
-        "browserLinkedIn&Sequence_4",
-        "allurl&Sequence_4"
+        "extractedTable&Sequence_1"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
